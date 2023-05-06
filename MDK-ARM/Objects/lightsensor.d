@@ -1,0 +1,9 @@
+.\objects\lightsensor.o: ..\Hardware\LightSensor.c
+.\objects\lightsensor.o: D:\MDK511\MDK511_Install\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device/Include/stm32f10x.h
+.\objects\lightsensor.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\core_cm3.h
+.\objects\lightsensor.o: D:\MDK511\MDK511_Install\ARM\ARMCC\bin\..\include\stdint.h
+.\objects\lightsensor.o: D:\MDK511\MDK511_Install\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device/Include/system_stm32f10x.h
+.\objects\lightsensor.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_conf.h
+.\objects\lightsensor.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h
+.\objects\lightsensor.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x.h
+.\objects\lightsensor.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h
