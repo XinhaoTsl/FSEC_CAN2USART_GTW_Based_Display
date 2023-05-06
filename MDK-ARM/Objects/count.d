@@ -1,0 +1,11 @@
+.\objects\count.o: ..\Hardware\Count.c
+.\objects\count.o: D:\MDK511\MDK511_Install\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device/Include/stm32f10x.h
+.\objects\count.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\core_cm3.h
+.\objects\count.o: D:\MDK511\MDK511_Install\ARM\ARMCC\bin\..\include\stdint.h
+.\objects\count.o: D:\MDK511\MDK511_Install\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device/Include/system_stm32f10x.h
+.\objects\count.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_conf.h
+.\objects\count.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h
+.\objects\count.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x.h
+.\objects\count.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h
+.\objects\count.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h
+.\objects\count.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h
